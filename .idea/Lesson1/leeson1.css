@@ -1,0 +1,28 @@
+h1 {background: darkkhaki;
+color: brown;
+    text-align: center;
+}
+h2 {background: #103b8c
+}
+
+img {width: 250px;
+}
+
+p {background: darkgray;
+    color: #103b8c;
+}
+ul {background: darkgrey
+}
+
+li {background: #57ec57;
+    color: #b91010;
+}
+
+a:link, a:visited {background: #57ec57;
+    color: deeppink;
+}
+
+a:link:active, a:visited:active {background: #b91010;
+    color: black;
+}
+
