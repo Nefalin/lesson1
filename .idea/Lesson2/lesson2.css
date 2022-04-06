@@ -1,0 +1,168 @@
+body {
+    margin: 0px;
+
+}
+
+.bluebox {
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    width: 600px;
+    height: 100vh;
+    /*background-color: cornflowerblue;*/
+}
+
+.indextop {
+    display: flex;
+    justify-content: center;
+    height: 20%;
+    font-size: 60px;
+    align-items: center;
+    margin: 10px;
+    background-color: cornflowerblue;
+}
+
+.structure {
+    justify-content: space-evenly;
+    display: flex;
+    height: 20%;
+    font-size: auto;
+    align-items: center;
+    margin: 10px;
+    /*background-color: blue;*/
+}
+
+.index {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: darkgrey;
+    height: 100%;
+    width: 33%;
+    /*text-align: center;*/
+    /*margin: 10px;*/
+    border: 1px solid darkred;
+    font-size: 40px;
+}
+
+.indexbot {
+    display: flex;
+    justify-content: center;
+    height: 60%;
+    font-size: 60px;
+    align-items: center;
+    margin: 10px;
+    background-color: darkblue;
+}
+
+.card1 {
+    background: azure;
+    height: 250px;
+    width: 300px;
+    text-align: center;
+    margin: 10px;
+    padding-top: 50px;
+    border: 1px solid darkred;
+}
+
+.button {
+    border: 1px solid black;
+    width: 50%;
+    margin-top: 30px;
+}
+.card2 {
+    /*display: flex;*/
+    flex-wrap: wrap;
+    justify-content: center;
+    background: aqua;
+    height: 250px;
+    width: 500px;
+    text-align: center;
+    margin: 10px;
+    border: 2px solid #e1b709;
+}
+
+.insert {
+    text-align: center;
+    font-size: 40px;
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button2 {
+    margin-top: 15px;
+    color: aliceblue;
+    border: 1px solid black;
+    background: #103b8c;
+    text-align: center;
+    width: 75%;
+}
+
+.h3card2 {
+    color: chocolate;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.mainbox {
+    display: flex;
+    background-color: cadetblue;
+    width: 600px;
+    height: 400px;
+    padding: 60px 20px;
+}
+
+.card31 {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: center;
+    width: 50%;
+    height: 100%;
+    background-color: cadetblue;
+}
+
+/*.card32 {*/
+/*    display: flex;*/
+/*    justify-content: center;*/
+/*    width: 50%;*/
+/*    height: 75vh;*/
+/*    background-color: cadetblue;*/
+/*}*/
+
+.card3box {
+    width: 90%;
+    height: 25%;
+    background-color: darksalmon;
+    justify-content: center;
+    display: flex;
+    /*flex-direction: row;*/
+    padding: 10px;
+}
+
+.boxtop {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    /*width: 25%;*/
+    font-size: 30px;
+    margin: 5px;
+}
+
+.boxbot {
+    display: flex;
+    text-align: left;
+    /*width: 75%;*/
+}
+
+.insert3 {
+    text-align: center;
+    font-size: 40px;
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 25px;
+}
