@@ -1,0 +1,57 @@
+@media screen and (max-width: 800px) {
+
+    /*card1*/
+    .structure1_bc {
+        flex-direction: column;
+        width: 100%;
+    }
+
+    .structure1_b {
+        height: 70%;
+        width: 100%;
+    }
+
+    .structure1_c {
+        height: 30%;
+        width: 100%;
+    }
+    /*card2*/
+    .structure2_a {
+        height: 20%;
+        width: 100%;
+    }
+    .structure2_bcdef {
+        flex-direction: column;
+        height: 80%;
+        width: 100%;
+    }
+    .structure2_bcde {
+        height: 80%;
+        width: 100%;
+    }
+
+    .structure2_b {
+        height: 75%;
+        width: 100%;
+    }
+    .structure2_cde {
+        height: 25%;
+        width: 100%;
+    }
+    .structure2_f {
+        height: 20%;
+        width: 100%;
+    }
+    /*card3*/
+    .structure3_bcdefgh {
+        flex-direction: column;
+    }
+    .structure3_bcdefg {
+        height: 40%;
+        width: 100%;
+    }
+    .structure3_h {
+        height: 60%;
+        width: 100%;
+    }
+}

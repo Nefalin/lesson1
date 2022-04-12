@@ -1,0 +1,156 @@
+h1, h2, p {
+    text-align: center;
+}
+
+div {
+    font-size: 25px;
+    font-weight: bold;
+    color: aliceblue;
+}
+
+.structure {
+    display: flex;
+    background-color: silver;
+    height: 500px;
+    margin: 0;
+    flex-direction: column;
+}
+/*card1*/
+.structure1_a {
+    /*display: flex;*/
+    background-color: darkblue;
+    height: 30%;
+    margin: 0;
+}
+
+.structure1_bc {
+    display: flex;
+    background-color: darksalmon;
+    height: 70%;
+    margin: 0;
+}
+
+.structure1_b {
+    display: flex;
+    background-color: cornflowerblue;
+    width: 70%;
+    margin: 0;
+}
+
+.structure1_c {
+    display: flex;
+    background-color: chocolate;
+    width: 30%;
+    margin: 0;
+}
+/*card2*/
+.structure2_a {
+    /*display: flex;*/
+    background-color: darkblue;
+    height: 30%;
+    margin: 0;
+}
+
+.structure2_bcdef {
+    display: flex;
+    background-color: darksalmon;
+    height: 70%;
+    margin: 0;
+}
+
+.structure2_bcde {
+    display: flex;
+    /*background-color: #111da1;*/
+    width: 70%;
+    margin: 0;
+    flex-direction: column;
+}
+
+.structure2_b {
+    display: flex;
+    background-color: cornflowerblue;
+    height: 50%;
+    margin: 0;
+}
+
+.structure2_cde {
+    display: flex;
+    /*background: linear-gradient(45deg,rebeccapurple,darkgreen);*/
+    height: 50%;
+    width: 100%;
+    margin: 0;
+}
+.structure2_box {
+    display: flex;
+    background: linear-gradient(45deg,rebeccapurple,darkgreen);
+    width: 33.33%;
+    margin: 0;
+}
+
+.structure2_f {
+    display: flex;
+    background-color: chocolate;
+    width: 30%;
+    margin: 0;
+}
+/*card3*/
+.structure3_a {
+    /*display: flex;*/
+    background-color: darkblue;
+    height: 30%;
+    margin: 0;
+}
+.structure3_bcdefgh {
+    display: flex;
+    /*background-color: darksalmon;*/
+    height: 70%;
+    margin: 0;
+
+}
+
+.structure3_bcdefg {
+    display: flex;
+    background-color: darksalmon;
+    width: 70%;
+    margin: 0;
+    flex-direction: column;
+}
+.structure3_bcd {
+    display: flex;
+    background-color: cornflowerblue;
+    height: 50%;
+    margin: 0;
+}
+.structure3_bcd {
+    display: flex;
+    background-color: cornflowerblue;
+    height: 50%;
+    margin: 0;
+
+}.structure3_efg {
+    display: flex;
+    background-color: #b6ed64;
+    height: 50%;
+    margin: 0;
+}
+
+.structure3_box1 {
+    display: flex;
+    background: linear-gradient(45deg,rebeccapurple,darkgreen);
+    width: 33.33%;
+    margin: 0;
+}
+
+.structure3_box2 {
+    display: flex;
+    background: linear-gradient(45deg, #998833, #002864);
+    width: 33.33%;
+    margin: 0;
+}
+
+.structure3_h {
+    display: flex;
+    background-color: chocolate;
+    width: 30%;
+    margin: 0;
+}
